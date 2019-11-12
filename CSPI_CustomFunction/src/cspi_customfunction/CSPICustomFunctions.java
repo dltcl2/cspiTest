@@ -8,7 +8,6 @@ import com.tibco.xml.cxf.common.annotations.XPathFunction;
 import com.tibco.xml.cxf.common.annotations.XPathFunctionGroup;
 import com.tibco.xml.cxf.common.annotations.XPathFunctionParameter;
 
-
 @XPathFunctionGroup(category = "CSPI Custom Functions", prefix = "CSPI", namespace = "http://cspi.custom.functions", helpText = "Custom defined function")
 public class CSPICustomFunctions {
 
